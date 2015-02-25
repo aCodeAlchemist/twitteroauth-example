@@ -1,6 +1,6 @@
 # Twitter - post tweet example
 
-Download twotteroauth sdk from here : https://github.com/abraham/twitteroauth
+Download twitteroauth sdk from here : https://github.com/abraham/twitteroauth
 
 ## Usage
 
