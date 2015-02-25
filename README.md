@@ -11,4 +11,4 @@ define("CONSUMER_KEY", "YOUR_KEY");
 define("CONSUMER_SECRET", "YOUR_SECRET");
 ```
 	
-Make sure that your callback url matches your callback url registered with app. In our case, we are handling callback in same file. Thats pretty much it! Let me know if any queries.
+Make sure that your callback url matches your callback url registered with app. Also do make sure to grant read write permissions to app from dashboard. In our case, we are handling callback in same file. Thats pretty much it! Let me know if any queries.
